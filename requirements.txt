@@ -1,0 +1,5 @@
+pyvi==0.0.9.7
+gensim==3.8.3
+numpy==1.18.4
+nltk==3.5
+scikit_learn==0.24.1
